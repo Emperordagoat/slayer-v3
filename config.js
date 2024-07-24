@@ -2,10 +2,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // ganti info bot dibawah ini
-global.botName = "DUX BOT"
-global.ownerName = "𝕯𝖚𝖝"
-global.ownerBot = "2348065413491"
-global.ownerNumber = ["2347082252014","2348065413491","2349167632397"] 
+global.botName = "Slayer v3"
+global.ownerName = "𝐋𝐎𝐑𝐃 𝐄𝐌𝐏𝐄𝐑𝐎𝐑"
+global.ownerBot = "2347041620617"
+global.ownerNumber = ["2347041620617","2348052944641"] 
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
