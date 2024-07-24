@@ -712,7 +712,7 @@ module.exports = async (_0x134739, _0x2cf499, _0x5144a5) => {
           matches = penislu.match(/case '[^']+'(?!.*case '[^']+')/g) || [];
           countcs = matches.length;
           let _0xc7600 = countcs;
-          txt = "▱▰▱「 𝐒𝐋𝐀𝐘𝐄𝐑 𝐕4 」▱▰▱\n╭──────────────────\n│ *Botname* : " + global.botName + "\n│ *Ownername* : " + global.ownerName + "\n│ *Pengguna* : " + (_0x446185 ? "Owner" : "User") + "\n│ *Total Fitur* : 100+\n│ *Number* : @" + _0x565577.split("@")[0] + "\n╰──────────────────\n┏❐ " + bb + "SIMPLE MENU" + bb + " ❐\n┃⭔.allmenu\n┃⭔.bugmenu\n┃⭔.ownermenu\n┃⭔.panelmenu\n┃⭔.jadibotmenu\n┃⭔.groupmenu\n┗❐\n▬▭▬▭▬▭▬▭▬▭\n 「 *RUNTIME BOT* 」\n" + _0x5dae40(process.uptime()) + "\n▬▭▬▭▬▭▬▭▬▭▬▭";
+          txt = "▱▰▱「 𝐒𝐋𝐀𝐘𝐄𝐑 𝐕3 」▱▰▱\n╭──────────────────\n│ *Botname* : " + global.botName + "\n│ *Ownername* : " + global.ownerName + "\n│ *Pengguna* : " + (_0x446185 ? "Owner" : "User") + "\n│ *Total Fitur* : 100+\n│ *Number* : @" + _0x565577.split("@")[0] + "\n╰──────────────────\n┏❐ " + bb + "SIMPLE MENU" + bb + " ❐\n┃⭔.allmenu\n┃⭔.bugmenu\n┃⭔.ownermenu\n┃⭔.panelmenu\n┃⭔.jadibotmenu\n┃⭔.groupmenu\n┗❐\n▬▭▬▭▬▭▬▭▬▭\n 「 *RUNTIME BOT* 」\n" + _0x5dae40(process.uptime()) + "\n▬▭▬▭▬▭▬▭▬▭▬▭";
           _0x4366e1(txt);
         }
         break;
