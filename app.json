@@ -1,0 +1,17 @@
+{                                                                     
+  "name": "Slayer-v3",                                           
+  "description": "Slayer-v3.",                                       
+  "repository": "https://github.com/Emperordagoat/slayer-v3",                                                                     
+  "logo": "https://telegra.ph/file/3a0e8f01cbcc9d1858168.jpg",           
+  "keywords": ["nodejs", "Venom-emp", "multi device"],                                               
+  "buildpacks": [                                                     
+    {                                                                   
+      "url": "heroku/nodejs"                                        
+    },                                                                
+    {                                                                   
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"                                                            
+    },                                                                
+    {                                                                   
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"                                                                  
+    }                                                            
+  ]                                                            
